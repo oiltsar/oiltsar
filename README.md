@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=26&pause=1000&color=F7F7F7&center=true&width=560&height=45&lines=%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85+%F0%9F%93%88;10+%D0%BB%D0%B5%D1%82+%D0%B2+%D0%B1%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B8+%D1%81%D0%BA%D0%B2%D0%B0%D0%B6%D0%B8%D0%BD+%F0%9F%9B%A2%EF%B8%8F;%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C+%C2%AB%D0%94%D1%8F%D0%B4%D0%B8+%D0%93%D1%80%D1%8D%D0%B2%D0%B5%D0%BB%D0%B0%C2%BB+%F0%9F%9A%B4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=26&pause=1000&color=3C78A9&center=true&width=560&height=45&lines=%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85+%F0%9F%93%88;10+%D0%BB%D0%B5%D1%82+%D0%B2+%D0%B1%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B8+%D1%81%D0%BA%D0%B2%D0%B0%D0%B6%D0%B8%D0%BD+%F0%9F%9B%A2%EF%B8%8F;%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C+%C2%AB%D0%94%D1%8F%D0%B4%D0%B8+%D0%93%D1%80%D1%8D%D0%B2%D0%B5%D0%BB%D0%B0%C2%BB+%F0%9F%9A%B4)](https://git.io/typing-svg)
 
 [![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](mailto:tsaregorodskiy@gmail.com)
 [![Дядя Грэвел](https://img.shields.io/badge/%D0%94%D1%8F%D0%B4%D1%8F_%D0%93%D1%80%D1%8D%D0%B2%D0%B5%D0%BB-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/unclegrvl)
