@@ -1,74 +1,111 @@
 <div align="center">
 
-<h1>
-  Привет, я Александр
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<img src="assets/hero.svg" width="100%" alt="Александр Царегородский — аналитик данных, 10+ лет в бурении, основатель «Дяди Грэвела»"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=26&pause=1000&color=3C78A9&center=true&width=560&height=45&lines=%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85+%F0%9F%93%88;10+%D0%BB%D0%B5%D1%82+%D0%B2+%D0%B1%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B8+%D1%81%D0%BA%D0%B2%D0%B0%D0%B6%D0%B8%D0%BD+%F0%9F%9B%A2%EF%B8%8F;%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C+%C2%AB%D0%94%D1%8F%D0%B4%D0%B8+%D0%93%D1%80%D1%8D%D0%B2%D0%B5%D0%BB%D0%B0%C2%BB+%F0%9F%9A%B4)](https://git.io/typing-svg)
+<br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](mailto:tsaregorodskiy@gmail.com)
-[![Дядя Грэвел](https://img.shields.io/badge/%D0%94%D1%8F%D0%B4%D1%8F_%D0%93%D1%80%D1%8D%D0%B2%D0%B5%D0%BB-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/unclegrvl)
-[![Сайт](https://img.shields.io/badge/unclegrvl--sgs.ru-0b0038?style=for-the-badge&logo=googlechrome&logoColor=white)](https://unclegrvl-sgs.ru)
+<a href="mailto:tsaregorodskiy@gmail.com"><img src="assets/btn-mail.svg" height="44" alt="Почта"/></a>
+<a href="https://unclegrvl-sgs.ru"><img src="assets/btn-site.svg" height="44" alt="Дядя Грэвел"/></a>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%"/>
 
-### :man_technologist: Обо мне
+### 👨‍💻 Обо мне
 
-- :oil_drum: **10 лет строил нефтяные и газовые скважины**, от технолога до заместителя руководителя проекта. Работа там — это цифры каждый день: план и факт по суткам, непроизводительное время, аварийность, расход материалов. В моей зоне ответственности сроки строительства скважин сократились на **15%**, а через год ещё на **11%**.
-- :mortar_board: Окончил курс **«Аналитик данных»** в [karpov.courses](https://karpov.courses), работаю на Python и SQL.
-- :bike: Придумал и развиваю **«Дядю Грэвела»**, гравийное велосообщество и онлайн-серию в Самаре. Его механику построил на [собственной аналитике](https://github.com/oiltsar/gravel-series-analytics) любительского велоспорта в России: зачёт «4 из 6 трасс» подталкивает ко второму старту, а еженедельные заезды снижают порог входа.
-- :round_pushpin: Самара · удалёнка или гибрид · открыт к предложениям.
+🔸 **Больше 10 лет строю нефтяные и газовые скважины.** Помотался по северам, прошёл путь от технолога до заместителя руководителя проекта. Строил скважины на Ковыкте — крупнейшем газовом месторождении Восточной Сибири, занимался проектированием разработки трудноизвлекаемых запасов в Волго-Уральском регионе. Выстраивал процессы, организовывал работу людей и подрядчиков, оптимизировал строительство. Под моим руководством сроки строительства скважин сокращались больше чем на 10% из года в год, росли культура производства и качество работ.
 
----
+🔸 **В 2026 году окончил курс «Аналитик данных»** в [karpov.courses](https://karpov.courses), работаю на Python и SQL. Потом подсел на вайбкодинг — работу в паре с ИИ-агентом — и увлёкся велоспортом.
 
-### :hammer_and_wrench: Языки и инструменты
+🔸 **Придумал и развиваю «Дядю Грэвела»** — гравийное велосообщество и серию гонок в Самаре. Механику серии построил на [собственной аналитике](https://github.com/oiltsar/gravel-series-analytics) любительского велоспорта в России.
+
+🔸 📍 Живу в Самаре · открыт к предложениям: удалёнка или гибрид.
+
+<img src="assets/divider.svg" width="100%"/>
+
+### 🤘 Умею
+
+🔸 **Делать дашборды и презентации для людей, которые принимают решения** — так, чтобы из каждого слайда было понятно, что делать дальше
+
+🔸 **Руководить людьми и подрядчиками** — ставить задачи, договариваться, доводить до результата. Разговаривать с заказчиком на его языке
+
+🔸 Находить, где теряются время и деньги: план и факт, НПВ, повторяющиеся отказы, план и карта рисков
+
+🔸 Считать продуктовые метрики: retention, когорты, воронки, aha-момент
+
+🔸 Проверять гипотезы: регрессия, доверительные интервалы, бутстрэп, дизайн A/B-теста и расчёт мощности (MDE)
+
+🔸 Собирать данные из API, сайтов и Telegram-каналов и сводить людей между источниками, где нет общего идентификатора
+
+🔸 Строить модель данных и SQL-витрины (DuckDB, SQLite) и пайплайн, который воспроизводится одной командой
+
+🔸 Автоматизировать рутинную отчётность на Python: ежедневные сводки, Excel, PDF
+
+<img src="assets/divider.svg" width="100%"/>
+
+### 🤖 Работаю с ИИ
+
+🔸 Веду проекты в паре с ИИ-агентом **Claude Code**: ставлю задачу как техзадание — контекст, критерии готовности, ограничения, — а агент пишет код, собирает данные и считает. Код, данные и выводы остаются в git, расчёт повторяется одной командой
+
+🔸 Проверяю результат, а не верю на слово: сверяю цифры с источником, смотрю случайные выборки, ищу, где модель могла ошибиться. Так в анализе велогонок нашлись ложные совпадения городов и каналов, которые автоматическая разметка принимала за велосипедные
+
+🔸 Собираю инструмент под задачу за вечер: сборщик данных, генератор ежедневной сводки, дашборд, презентацию
+
+🔸 Слежу за данными: персональные данные и ключи не уходят в публичные репозитории, витрины для портфолио собираю отдельно от рабочих
+
+<img src="assets/divider.svg" width="100%"/>
+
+### 🛠️ Языки и инструменты
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
-![Pandas](https://img.shields.io/badge/pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc)
-![statsmodels](https://img.shields.io/badge/statsmodels-0b0038?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-0b0038?style=for-the-badge&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=336791)
-![DuckDB](https://img.shields.io/badge/DuckDB-0b0038?style=for-the-badge&logo=duckdb&logoColor=FFF000)
-![SQLite](https://img.shields.io/badge/SQLite-0b0038?style=for-the-badge&logo=sqlite&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-0b0038?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Excel](https://img.shields.io/badge/Excel-0b0038?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![HTML/JS](https://img.shields.io/badge/HTML%2FJS-0b0038?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/Git-0b0038?style=for-the-badge&logo=git&logoColor=F05032)
+![Python](https://img.shields.io/badge/Python-1E1B15?style=for-the-badge&logo=python&logoColor=FF5A1F)
+![pandas](https://img.shields.io/badge/pandas-1E1B15?style=for-the-badge&logo=pandas&logoColor=FF5A1F)
+![NumPy](https://img.shields.io/badge/NumPy-1E1B15?style=for-the-badge&logo=numpy&logoColor=FF5A1F)
+![statsmodels](https://img.shields.io/badge/statsmodels-1E1B15?style=for-the-badge&logo=python&logoColor=FF5A1F)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1E1B15?style=for-the-badge&logo=scikitlearn&logoColor=FF5A1F)
+![SQL](https://img.shields.io/badge/SQL-1E1B15?style=for-the-badge&logo=postgresql&logoColor=FF5A1F)
+![DuckDB](https://img.shields.io/badge/DuckDB-1E1B15?style=for-the-badge&logo=duckdb&logoColor=FF5A1F)
+![SQLite](https://img.shields.io/badge/SQLite-1E1B15?style=for-the-badge&logo=sqlite&logoColor=FF5A1F)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1E1B15?style=for-the-badge&logo=python&logoColor=FF5A1F)
+![Plotly](https://img.shields.io/badge/Plotly-1E1B15?style=for-the-badge&logo=plotly&logoColor=FF5A1F)
+![Jupyter](https://img.shields.io/badge/Jupyter-1E1B15?style=for-the-badge&logo=jupyter&logoColor=FF5A1F)
+![Excel](https://img.shields.io/badge/Excel-1E1B15?style=for-the-badge&logo=microsoftexcel&logoColor=FF5A1F)
+![HTML/JS](https://img.shields.io/badge/HTML%2FJS-1E1B15?style=for-the-badge&logo=javascript&logoColor=FF5A1F)
+![Playwright](https://img.shields.io/badge/Playwright-1E1B15?style=for-the-badge&logo=playwright&logoColor=FF5A1F)
+![Git](https://img.shields.io/badge/Git-1E1B15?style=for-the-badge&logo=git&logoColor=FF5A1F)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-1E1B15?style=for-the-badge&logo=githubpages&logoColor=FF5A1F)
+![Claude Code](https://img.shields.io/badge/Claude_Code-1E1B15?style=for-the-badge&logo=claude&logoColor=FF5A1F)
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%"/>
 
-### :metal: Умею
+### 📁 Проекты
 
-- Собирать данные из API и HTML-страниц и сводить людей между источниками, где нет общего идентификатора
-- Строить модель данных и SQL-витрины (DuckDB, SQLite) и делать пайплайн, который воспроизводится одной командой
-- Считать продуктовые метрики: retention, когорты, частота, воронки, aha-момент
-- Проверять гипотезы: логистическая регрессия, доверительные интервалы, дизайн A/B-теста и расчёт мощности (MDE)
-- Делать дашборды и презентации для людей, которые принимают решения
-- Автоматизировать рутинную отчётность на Python (Excel, PDF)
-
----
-
-### :file_folder: Мои проекты
-
-| Проект | Описание | Стек |
+| Проект | О чём | Стек |
 |---|---|---|
-| 🚴 [**Русская гравийная серия как продукт**](https://github.com/oiltsar/gravel-series-analytics) | Куда организаторам серии вкладываться между сезонами? 28 этапов, 6 279 результатов, 2 972 гонщика (2023–2026). Серия делится на два региональных кластера, и участники одного из них не могут попасть в общий зачёт. Нашёл aha-момент — второй старт в первом сезоне, OR 2,7 [2,0–3,6] — и спроектировал A/B-тест. Отчёт получили организаторы серии и после него попросили разобрать ещё одну. [Дашборд](https://oiltsar.github.io/gravel-series-analytics/dashboard/) и презентация | **Python** **pandas** **statsmodels** **DuckDB** **SQL** **HTML/JS-дашборд** |
-| 🛢️ [**Куда уходит время на буровой**](https://github.com/oiltsar/drilling-time-volve) | На что тратится время морской буровой и какие потери можно убрать? 1 758 суточных рапортов месторождения Volve, 23 447 операций. Каждый шестой час — непроизводительный. 40% потерь в рапортах записаны как «прочее»: восстановил причины по комментариям и нашёл крупнейшую — забастовку на 31 сутки. 10% событий дают 66% потерь. Резерв бурения — до 40 суток из 711 | **Python** **pandas** **DuckDB** **SQL** **бутстрэп** |
-| 🛒 [**X-ray Olist**](https://github.com/oiltsar/X-ray_Olist) | Почему маркетплейс не растёт? Retention первого месяца около 0,5%, выручка держится на привлечении. Гипотезы приоритизированы по ICE, предложена система метрик | **Python** **pandas** **seaborn** |
-| 🗺️ [**Велогонки России: что удерживает гонщиков**](https://github.com/oiltsar/russia-cycling-analytics) *(в работе)* | Почему две трети новичков велогонок не возвращаются на следующий сезон? 242 тыс. стартов, 58 тыс. гонщиков из шести источников без общего идентификатора. Второй старт за 60 дней добавляет к возврату около 32 п.п. (дважды устойчивая оценка). Сеть из 264 серий распадается на 23 почти не связанных сообщества. Полные выводы веду для своей гравийной серии. [Дашборд](https://oiltsar.github.io/russia-cycling-analytics/) | **Python** **LightGBM** **SHAP** **причинный вывод** **анализ выживаемости** **NetworkX** **Plotly** |
+| 🚴 [**Русская гравийная серия как продукт**](https://github.com/oiltsar/gravel-series-analytics) | Захотел понять, как в России растёт гравийная культура, и разобрал главную гравийную серию страны: 28 этапов, 6 279 результатов, 2 972 гонщика за 2023–2026 годы. Нашёл, что серия делится на два региональных кластера и участники одного не могут набрать стартов для общего зачёта, что главный рычаг удержания — второй старт в первом сезоне (шансы вернуться выше в 2,7 раза), и спроектировал A/B-тест. Вышел с этим к организаторам: отчёт им понравился, и они попросили разобрать ещё одну серию. Этот проект стал толчком к изучению велоспорта России и к запуску «Дяди Грэвела». [Дашборд](https://oiltsar.github.io/gravel-series-analytics/dashboard/) и презентация | **Python** **pandas** **statsmodels** **DuckDB** **SQL** **HTML/JS-дашборд** |
+| 🛢️ [**НПВ при строительстве скважин Volve**](https://github.com/oiltsar/drilling-time-volve) | Показал на открытых данных, чем занимаюсь в бурении. Разобрал 1 758 суточных рапортов месторождения Volve так, как ведёт учёт руководитель проекта: каждую операцию отнёс к виду НПВ и причине, собрал историю отказов по узлам, посчитал план НПВ и карту рисков на следующую скважину. И ответил на вопрос, что дал бы такой учёт с первой скважины: повторяющиеся отказы трубного манипулятора были видны с первого месяца, а решили их на третий год — это 17 суток станка. План НПВ, посчитанный по прошлым скважинам, выдержали 14 скважин из 16 | **Python** **pandas** **DuckDB** **SQL** **бутстрэп** |
+| 🛒 [**X-ray Olist**](https://github.com/oiltsar/X-ray_Olist) | Учебный кейс, в котором я вышел за рамки задания и посмотрел на маркетплейс шире. Почему он не растёт: retention первого месяца — около 0,5%, выручка держится только на привлечении новых покупателей. Гипотезы приоритизированы по ICE, предложена система метрик для продакт-менеджера | **Python** **pandas** **seaborn** |
+| 🗺️ [**Велогонки России: что удерживает гонщиков**](https://github.com/oiltsar/russia-cycling-analytics) *(в работе)* | Публичная часть моего исследования любительского велоспорта России. 242 тыс. стартов и 58 тыс. гонщиков из шести площадок без общего идентификатора, свои сборщики под каждую. Второй старт в первые 60 дней добавляет к возврату около 32 п.п. (дважды устойчивая оценка), сеть из 264 серий распадается на 23 почти не связанных сообщества. Основная работа идёт в приватном репозитории: там я ищу инсайты и векторы развития для своего проекта. [Дашборд](https://oiltsar.github.io/russia-cycling-analytics/) | **Python** **LightGBM** **SHAP** **причинный вывод** **анализ выживаемости** **NetworkX** **Plotly** |
 
----
+<img src="assets/divider.svg" width="100%"/>
 
-### :oil_drum: Из нефтегаза — то, что переносится в аналитику
+### 🛢️ Из нефтегаза — то, что переносится в аналитику
 
-- **Оптимизация строительства скважин** (Ковыктинское ГКМ): сроки −15% (2021 к 2020) и ещё −11% (2022 к 2021). Аварийность снижена более чем на 25%: оптимизированы графики «глубина — день» и карты рисков, разобраны причины НПВ.
-- **Учёт и затраты:** за 2018 год аварий с бурильной колонной стало на 28% меньше (пересмотрены регламенты и учёт наработки), расход талевого каната снизился на 23%, затраты отдела за 2016–2017 годы — на 16%.
-- **Отчётность и автоматизация:** статистика для руководства, заказчиков и Росстата. Сейчас — генераторы ежедневной сводки, расчёт показателей для актов сверки (план и факт, НПВ по видам) и шаблоны рабочей документации на Python.
+🔸 **Оптимизация строительства скважин** (Ковыктинское месторождение): сроки −15% (2021 к 2020) и ещё −11% (2022 к 2021). Аварийность снижена больше чем на 25%: пересобрали графики «глубина — день» и карты рисков, разобрали причины НПВ.
+
+🔸 **Учёт и затраты:** за 2018 год аварий с бурильной колонной стало на 28% меньше (пересмотрели регламенты и учёт наработки), расход талевого каната снизился на 23%, затраты отдела на прочие МТР за 2016–2017 годы — на 16%.
+
+🔸 **Геомеханика** — стык аналитики и бурения. Прошёл обучение и применял в проектировании разработки трудноизвлекаемых запасов: по данным бурения и геофизики строится модель напряжений в породе, по ней выбирают плотность бурового раствора и траекторию, чтобы ствол не обваливался и раствор не уходил в пласт.
+
+🔸 **Отчётность и автоматизация:** статистика и презентации для руководства, заказчиков и Росстата. Сейчас — генераторы ежедневной сводки, расчёт показателей для актов сверки (план и факт, НПВ по видам), рабочая документация на Python.
+
+<img src="assets/divider.svg" width="100%"/>
+
+<div align="center">
+
+<sub>Курс «Аналитик данных», <a href="https://karpov.courses">karpov.courses</a>, 2025–2026 · Самарский государственный технический университет, бурение нефтяных и газовых скважин, 2015</sub>
+
+</div>

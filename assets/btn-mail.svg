@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 138 52" width="138" height="52" role="img" aria-label="ПОЧТА">
+  <rect x="7" y="7" width="130" height="42" rx="4" fill="#1A1610"/>
+  <rect x="1.5" y="1.5" width="130" height="42" rx="4" fill="#FF5A1F" stroke="#1A1610" stroke-width="3"/>
+  <g transform="translate(16 12)" fill="#1A1610"><path d="M2 4h20v16H2z" fill="none" stroke="#1A1610" stroke-width="2.4"/><path d="m2.5 5 9.5 8 9.5-8" fill="none" stroke="#1A1610" stroke-width="2.4"/></g>
+  <text x="48" y="29" font-family="Rubik, Arial Black, Impact, sans-serif" font-weight="900" font-size="15" letter-spacing="1.2" fill="#1A1610">ПОЧТА</text>
+</svg>

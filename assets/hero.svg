@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="880" height="220" role="img" aria-label="Александр Царегородский. Аналитик данных. 10+ лет в строительстве скважин. Основатель «Дяди Грэвела»">
+  <style>
+    .bg { fill: #1E1B15; }
+    .scan { fill: url(#scan); }
+    .name { font: 900 30px "Rubik", "Arial Black", Impact, sans-serif; letter-spacing: .04em; fill: #F4EBD5; text-transform: uppercase; }
+    .tag { font: 500 13px "IBM Plex Mono", ui-monospace, Menlo, monospace; letter-spacing: .18em; fill: #FFC20E; }
+    .line { font: 900 46px "Rubik", "Arial Black", Impact, sans-serif; letter-spacing: .03em; text-transform: uppercase; }
+    .main { fill: #F4EBD5; }
+    .or { fill: #FF5A1F; }
+    .cy { fill: #19d3da; }
+    .ph { opacity: 0; animation: show 12s steps(1) infinite; }
+    .p2 { animation-delay: 4s; }
+    .p3 { animation-delay: 8s; }
+    .ph .or { animation: gl-or 12s linear infinite; animation-delay: inherit; }
+    .ph .cy { animation: gl-cy 12s linear infinite; animation-delay: inherit; }
+    .ph .main { animation: gl-main 12s linear infinite; animation-delay: inherit; }
+    .roll { fill: #FF5A1F; opacity: .28; animation: roll 4s linear infinite; }
+    .roll2 { fill: #ffffff; opacity: .07; animation: roll 4s linear infinite; animation-delay: .25s; }
+    .flash { fill: #ffffff; opacity: 0; animation: flash 4s steps(1) infinite; }
+    .cur { fill: #FF5A1F; animation: blink 1s steps(1) infinite; }
+    @keyframes show { 0% { opacity: 1; } 33.33% { opacity: 0; } 100% { opacity: 0; } }
+    @keyframes gl-or { 0% { transform: translate(-14px, 0) skewX(18deg); } 1% { transform: translate(10px, 0) skewX(-12deg); } 2% { transform: translate(-6px, 0); } 3%, 30% { transform: translate(4px, 0); } 30.5% { transform: translate(12px, 0); } 31% { transform: translate(4px, 0); } }
+    @keyframes gl-cy { 0% { transform: translate(14px, 0) skewX(-18deg); } 1% { transform: translate(-10px, 0) skewX(12deg); } 2% { transform: translate(6px, 0); } 3%, 30% { transform: translate(-4px, 0); } 30.5% { transform: translate(-12px, 0); } 31% { transform: translate(-4px, 0); } }
+    @keyframes gl-main { 0% { transform: translate(-24px, 0) skewX(20deg); opacity: 0; } 1% { transform: translate(18px, 0) skewX(-14deg); opacity: 1; } 2% { transform: translate(-8px, 0); } 3%, 30% { transform: none; opacity: 1; } 30.5% { transform: translate(10px, 0); opacity: .3; } 31% { transform: none; opacity: 1; } }
+    @keyframes roll { from { transform: translateY(-40px); } to { transform: translateY(240px); } }
+    @keyframes flash { 0% { opacity: .35; } 2% { opacity: 0; } 100% { opacity: 0; } }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .ph, .ph * , .roll, .roll2, .flash, .cur { animation: none !important; } .p1 { opacity: 1; } }
+  </style>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" opacity=".28"/></pattern>
+  </defs>
+  <rect class="bg" width="880" height="220" rx="4"/>
+  <text class="tag" x="40" y="46">◆ GITHUB · OILTSAR · САМАРА</text>
+  <text class="name" x="40" y="86">Александр Царегородский</text>
+
+  <g class="ph p1" transform="translate(40 158)">
+    <text class="line cy">Аналитик данных</text>
+    <text class="line or">Аналитик данных</text>
+    <text class="line main">Аналитик данных</text>
+  </g>
+  <g class="ph p2" transform="translate(40 158)">
+    <text class="line cy">10+ лет в бурении</text>
+    <text class="line or">10+ лет в бурении</text>
+    <text class="line main">10+ лет в бурении</text>
+  </g>
+  <g class="ph p3" transform="translate(40 158)">
+    <text class="line cy">Основатель «Дяди Грэвела»</text>
+    <text class="line or">Основатель «Дяди Грэвела»</text>
+    <text class="line main">Основатель «Дяди Грэвела»</text>
+  </g>
+  <rect class="cur" x="40" y="176" width="34" height="6"/>
+
+  <rect class="roll" x="0" y="0" width="880" height="26"/>
+  <rect class="roll2" x="0" y="0" width="880" height="8"/>
+  <rect class="scan" width="880" height="220"/>
+  <rect class="flash" width="880" height="220"/>
+  <rect x="1.5" y="1.5" width="877" height="217" rx="4" fill="none" stroke="#FF5A1F" stroke-width="3"/>
+</svg>
