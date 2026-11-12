@@ -4,6 +4,7 @@
 
 <br/>
 
+<a href="https://t.me/astsiy"><img src="assets/btn-telegram.svg" height="44" alt="Telegram"/></a>
 <a href="mailto:tsaregorodskiy@gmail.com"><img src="assets/btn-mail.svg" height="44" alt="Почта"/></a>
 <a href="https://unclegrvl-sgs.ru"><img src="assets/btn-site.svg" height="44" alt="Дядя Грэвел"/></a>
 
